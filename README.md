@@ -258,7 +258,7 @@ The report covers:
   </tr>
   <tr>
     <td><strong>Year</strong></td>
-    <td>Class of 2022</td>
+    <td>Class of 2021</td>
   </tr>
 </table>
 
